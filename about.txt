@@ -4,3 +4,4 @@ I'm from trichy.
 Currently I'm a HCL trainee soon to be a HCL full time employee.
 I'm happy to become an employee of HCL Technologies and am looking forward to that day.
 My role is Automation Tester.
+Completed Git Assignment 1.

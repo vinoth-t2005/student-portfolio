@@ -1,0 +1,31 @@
+1. Fitness Scheduler – Project Description
+
+The Fitness Scheduler is an application designed to help users plan and manage their workout routines effectively. It allows users to create personalized fitness schedules based on their goals such as muscle gain, weight loss, or overall fitness improvement.
+
+The system organizes workouts into structured plans by dividing exercises into categories like arms, chest, back, and core. It ensures proper balance between workout sessions and rest days to avoid overtraining and improve performance.
+
+Key features include:
+
+Personalized workout planning based on fitness goals
+Structured exercise routines (daily/weekly plans)
+Balanced scheduling with rest and recovery periods
+Easy tracking and modification of workout plans
+Simple and user-friendly interface
+
+This project helps users stay consistent with their fitness journey and maintain a disciplined workout routine.
+
+2. Automatic Timetable Generator – Project Description
+
+The Automatic Timetable Generator is a system that automatically creates efficient schedules based on user inputs such as tasks, priorities, and available time.
+
+Instead of manually planning daily or weekly activities, users can enter their requirements, and the system generates an optimized timetable that ensures proper time allocation for each task. It helps in managing academic work, personal tasks, and other activities without conflicts.
+
+Key features include:
+
+Automatic generation of daily or weekly timetables
+Intelligent task prioritization and time allocation
+Conflict-free scheduling
+Flexibility to update or regenerate schedules
+Improves productivity and time management
+
+This project reduces manual effort in scheduling and helps users utilize their time more efficiently.
